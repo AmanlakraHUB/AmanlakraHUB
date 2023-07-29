@@ -1,6 +1,6 @@
 - Hi,my name is Aman Lakra
-- I am interested in learning and gaining knowlege and simultaneously enjoying whatever I do.
-- I am a beginner in IT sector and currently learning Java.
+- I am interested in learning and gaining knowledge and simultaneously enjoying whatever I do.
+- I am a passionate Frontend Developer.
 - I am looking forward to working with a team.
 - My GmailID is amanlakra1111@gmail.com
 
